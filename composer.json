@@ -27,7 +27,7 @@
         "illuminate/database": "^12.0|^13.0",
         "illuminate/support": "^12.0|^13.0",
         "illuminate/view": "^12.0|^13.0",
-        "jeffersongoncalves/laravel-gdpr": "^1.0",
+        "jeffersongoncalves/laravel-gdpr": "^2.0",
         "spatie/laravel-package-tools": "^1.16"
     },
     "require-dev": {
